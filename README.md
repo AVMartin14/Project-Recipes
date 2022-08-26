@@ -1,2 +1,2 @@
-# Project-Recipes
-Odin Project that consists of developing a website with links to recipes
+# Project Recipes
+Odin Project that consists of developing a website with links to different recipes.
